@@ -4,7 +4,7 @@
 - Data source : https://www.kaggle.com/datasets/gti-upm/leapgestrecog
 - Data is in 10 folders each folder has 10 folders, where those subfolders containing multiple images of same gesture.
 - Gestures are 
-```
+***
 01_palm
 
 02_l
@@ -24,4 +24,4 @@
 09_c
 
 10_down
-```
+***
